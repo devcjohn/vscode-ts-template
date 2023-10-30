@@ -4,9 +4,9 @@ A template for writing Typescript in VSCode.
 
 Use cases:
 
+- Creating an NPM package with strong typing
 - JS/TS playground
 - Prototyping
-- Starting a new TS project
 
 **_ Running _**
 
