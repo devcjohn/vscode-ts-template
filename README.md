@@ -15,3 +15,9 @@ Run these commands in the root of this project:
 - `npm install`
 - `npm run build`
 - `npm run test`
+- `npm run lint`
+
+** Additional Information **
+
+If you'd like to commit your dist folder which contains your transpiled JS files,
+you can remove `dist` from `.gitignore`
