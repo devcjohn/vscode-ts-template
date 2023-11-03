@@ -1,6 +1,12 @@
-** vscode-ts-template **
+# vscode-ts-template
 
-A template for writing Typescript in VSCode.
+A template for writing Typescript in VSCode
+
+Features:
+
+- Unit testing
+- Linting
+- Formatting
 
 Use cases:
 
@@ -8,7 +14,7 @@ Use cases:
 - JS/TS playground
 - Prototyping
 
-**_ Running _**
+## Running
 
 Run these commands in the root of this project:
 
@@ -17,7 +23,7 @@ Run these commands in the root of this project:
 - `npm run test`
 - `npm run lint`
 
-** Additional Information **
+## Additional Information
 
 If you'd like to commit your dist folder which contains your transpiled JS files,
 you can remove `dist` from `.gitignore`
