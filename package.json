@@ -5,6 +5,7 @@
   "main": "./dist/main.js",
   "scripts": {
     "build": "tsc",
+    "start": "node dist/main.js",
     "test": "jest",
     "test:watch": "jest --watch",
     "lint": "eslint ."
